@@ -1,3 +1,9 @@
+This is an exciting project I made with Next.JS, styled components, Firebase and Material UI. This project is a clone of Whatsapp where you can send direct messages in real time to other users by puting their email.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
