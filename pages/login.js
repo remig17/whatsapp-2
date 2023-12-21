@@ -14,7 +14,7 @@ function Login() {
         <title>Login</title>
       </Head>
       <LoginContainer>
-        <Logo src="wp.png" />
+        <Logo src="/wp.png" />
         <Button
           onClick={signIn}
           variant="outlined"
